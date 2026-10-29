@@ -1,0 +1,4 @@
+Model,Parameters,Threshold
+Logistic Regression,C=1,0.24956228275490097
+MLP,"hidden_layer_sizes=(16,), alpha=0.1",0.3976459326488913
+Mixed NB,"alpha=10.0, var_smoothing=1e-09",0.7559830826948407
